@@ -37,8 +37,12 @@ text5. Execute o assistente:
 python main.py
 textDiga “sair” ou “tchau” para encerrar.
 
-## Demonstração
-(Você vai colocar o link do vídeo aqui depois de gravar)
+## Como funciona na prática
+
+1. Ao iniciar: aparece "🚀 Codex Junior iniciado! Fale qualquer coisa sobre programação."
+2. Fale uma pergunta sobre Python (ex: "O que é uma função?")
+3. O assistente grava sua voz → transcreve → pensa com o modelo local → responde na tela e fala em voz alta
+4. Para encerrar: diga "sair" ou "tchau"
 
 **Desenvolvido por Leandro da Silva**  
 Parauapebas/PA – Março 2026
